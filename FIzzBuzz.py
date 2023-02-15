@@ -10,7 +10,8 @@ while i < 100:
 		print(i)
 	i += 1
 	
-print("charann HAHAHAHAHHAAHAAAA")
+#print("charann HAHAHAHAHHAAHAAAA")
+"""
 yan na 
 HAHAHAHAH
 natatae ako sayo
@@ -36,3 +37,4 @@ pwede. take ka muna course sa pycharm hahahaha malaki kasi talaga yun oomh
 teeee
 firstnumber=float ?ctrl z mo
 yann hahahahahaha. may ginawa akong bago punta ka sa chelsua hanapin mo yung repl for calcu
+"""
